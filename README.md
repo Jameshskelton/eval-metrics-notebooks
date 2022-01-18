@@ -6,4 +6,5 @@ This guide was meant to be paired with the Paperspace Blog article found here: b
 
 Use the blogs along with these Notebook to see how you can use these ML evaluation metrics in Gradient.
 
-Launch on Gradient by forking from this Notebook: https://console.paperspace.com/ml-showcase/notebook/rrtvxnh5j1vfj4e?file=guide.ipynb
+Launch on Gradient by forking from this Notebook:
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/ml-showcase/notebook/rrtvxnh5j1vfj4e?file=guide.ipynb)
